@@ -1,7 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Mohammad</h1>
 <h3 align="center">A passionate developer</h3>
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MohammadKhGh99)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F795&width=450&lines=Hi%2C+I'm+Mohammad;Python+%7C+Java+%7C+C%2B%2B+%7C+Flask+Developer;Unity+Game+Dev+%7C+DevOps+Learner" />

@@ -7,16 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F795&width=450&lines=Hi%2C+I'm+Mohammad;Python+%7C+Java+%7C+C%2B%2B+%7C+Flask+Developer;Unity+Game+Dev+%7C+DevOps+Learner" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohammadKhGh99&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B" />
-</p>
-
-![Snake animation](https://github.com/MohammadKhGh99/MohammadKhGh99/blob/output/github-contribution-grid-snake.svg)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-</p>
-
 ---
 
 ### 🧠 About Me
@@ -24,6 +14,15 @@
 - 🌱 I’m learning **Flutter**
 - 👯 I’m open to collaborate on anything challenging and fun!
 - ⚡ Fun fact: I love teaching AI and programming.
+
+---
+
+### 🧰 My Projects
+
+- 🛒 [Shopping Website](https://github.com/MohammadKhGh99/Shopping_Website)
+- 💵 [PatientsData](https://github.com/MohammadKhGh99/PatientsData-FlaskVersion)
+- 🎮 [Granny Crossing](https://github.com/MohammadKhGh99/GrannyCrossing)
+- 🎮 [Where There's Smoke](https://github.com/MohammadKhGh99/WhereTheresSmoke)
 
 ---
 
@@ -52,6 +51,20 @@
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
+
+![Snake animation](https://github.com/MohammadKhGh99/MohammadKhGh99/blob/output/github-contribution-grid-snake.svg)
+
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MohammadKhGh99&theme=onedark&rank=AA,A,B" />
+</p>
+
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -59,15 +72,6 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadKhGh99&layout=compact&theme=tokyonight" />
 </p>
-
----
-
-### 🧰 My Projects
-
-- 🛒 [Shopping Website](https://github.com/MohammadKhGh99/Shopping_Website)
-- 💵 [PatientsData](https://github.com/MohammadKhGh99/PatientsData-FlaskVersion)
-- 🎮 [Granny Crossing](https://github.com/MohammadKhGh99/GrannyCrossing)
-- 🎮 [Where There's Smoke](https://github.com/MohammadKhGh99/WhereTheresSmoke)
 
 ---
 

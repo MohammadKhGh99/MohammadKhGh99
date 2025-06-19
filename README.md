@@ -19,15 +19,14 @@
 
 ### 🧰 My Projects
 
-- 🛒 [Shopping Website](https://github.com/MohammadKhGh99/Shopping_Website)
-- 💵 [PatientsData](https://github.com/MohammadKhGh99/PatientsData-FlaskVersion)
-- 🎮 [Granny Crossing](https://github.com/MohammadKhGh99/GrannyCrossing)
-- 🎮 [Where There's Smoke](https://github.com/MohammadKhGh99/WhereTheresSmoke)
+- 🛒 **[Shopping Website](https://github.com/MohammadKhGh99/Shopping_Website)** – E-commerce app built with Flask; includes user profiles, shopping cart, and admin panel.
+- 🏥 **[PatientsData](https://github.com/MohammadKhGh99/PatientsData-FlaskVersion)** – Patient management system using Flask + Bootstrap.
+- 👵 **[Granny Crossing](https://github.com/MohammadKhGh99/GrannyCrossing)** – A Unity game where a grandma defies traffic!
+- 🔥 **[Where There's Smoke](https://github.com/MohammadKhGh99/WhereTheresSmoke)** – A puzzle platformer with smoke-based mechanics.
 
 ---
 
-### 🔧 Technologies & Tools
-
+### 🧰 Languages & Frameworks
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
@@ -38,7 +37,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" />
+</p>
 
+---
+
+### 🛠 Tools & Platforms
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" />
@@ -47,6 +52,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rider/rider-original.svg" width="40" />
 </p>
 
 ---
@@ -84,4 +93,10 @@
   <a href="mailto:mohammad.gh454@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“I don’t just write code — I build things that work, learn from what breaks, and repeat.” – A curious mind with a keyboard</i>
 </p>

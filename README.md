@@ -20,9 +20,9 @@
 ### 🧰 My Projects
 
 - 🛒 **[Shopping Website](https://github.com/MohammadKhGh99/Shopping_Website)** – E-commerce app built with Flask; includes user profiles, shopping cart, and admin panel.
-- 🏥 **[PatientsData](https://github.com/MohammadKhGh99/PatientsData-FlaskVersion)** – Patient management system using Flask + Bootstrap.
-- 👵 **[Granny Crossing](https://github.com/MohammadKhGh99/GrannyCrossing)** – A Unity game where a grandma defies traffic!
-- 🔥 **[Where There's Smoke](https://github.com/MohammadKhGh99/WhereTheresSmoke)** – A puzzle platformer with smoke-based mechanics.
+- 🏥 **[PatientsData](https://github.com/MohammadKhGh99/PatientsData-FlaskVersion)** – Patient management system using Flask.
+- 👵 **[Granny Crossing](https://github.com/MohammadKhGh99/GrannyCrossing)** – A Unity game where two grannies defies traffic!
+- 🔥 **[Where There's Smoke](https://github.com/MohammadKhGh99/WhereTheresSmoke)** – A two-player game, arsoner against firefighter.
 
 ---
 
